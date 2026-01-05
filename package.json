@@ -1,0 +1,22 @@
+{
+  "name": "data_projects",
+  "version": "1.0.0",
+  "main": "index.js",
+  "type": "commonjs",
+  "scripts": {
+    "start": "npx json-server db.json --port 3000",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+ 
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+ 
+  "homepage": "https://github.com/Amit-code-bot/Data_Projects#readme",
+  "description": "",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "json-serve": "^0.1.0",
+    "json-server": "^1.0.0-beta.3"
+  }
+}
